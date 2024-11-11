@@ -1,5 +1,5 @@
 # Aurora: AI Unified Responsive Optimized Reasoning Agent
-
+UPDATES COMING 11/30/2024 - Currently working on improving all my projects that have more potential while also improving my core skills to improve all these agents for more AGI qualities!
 ## What is Aurora?
 
 Aurora is an advanced AI assistant designed to provide helpful, insightful, and engaging responses to a wide range of queries and tasks. Think of Aurora as a highly intelligent digital companion that can assist you with various information needs and problem-solving challenges.
